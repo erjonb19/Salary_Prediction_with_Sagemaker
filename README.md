@@ -39,6 +39,12 @@ This project aims to predict employee salary based on the number of years of exp
 
 
 
+## Install the required dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+
 ## Libraries and Datasets
 
 
